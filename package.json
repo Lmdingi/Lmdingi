@@ -1,0 +1,10 @@
+{
+  "name": "github-profile-updater",
+  "version": "1.0.0",
+  "description": "Automatically updates GitHub Profile README",
+  "main": "profile-summary.js",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "type": "module"
+}
